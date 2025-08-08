@@ -1,0 +1,33 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+*.iml
+*.idea/
+.vscode/
+*.log
+*.DS_Store
+
+# Project-specific
+firebase.json
+
+# macOS/Linux/Windows specific
+.DS_Store
+*.swp
+*.lock
+
+# Dependencies
+pubspec.lock
+
+# Build outputs
+*.apk
+*.ap_
+*.aab
